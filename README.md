@@ -30,14 +30,8 @@ Software Engineer with production experience at **Boeing** (International Space 
 
 ### 📚 Currently
 
-- 🎓 Coursework: Applied NLP, Machine Learning, Network Security, Applied Data Technologies
+- 🧑‍🏫 Graduate Teaching Assistant at Indiana University Bloomington
 - 🔍 Looking for **Summer 2027 internships / full-time SWE roles** (open to DevOps, ML, and backend)
-
 ---
 
-### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RohithGowdaD&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithGowdaD&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
