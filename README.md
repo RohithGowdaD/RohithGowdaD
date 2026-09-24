@@ -4,7 +4,7 @@
 
 Software Engineer with production experience at **Boeing** (International Space Station software) and **OneMain Financial** (platform engineering & observability). I like building reliable systems, automating what shouldn't be manual, and applying ML to real problems.
 
-📍 Bloomington, IN &nbsp;|&nbsp; 📧 rohithus2526@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/rohith-gowda-d/) &nbsp;|&nbsp; [Portfolio]([https://YOUR-PORTFOLIO-LINK](https://my-portfolio-git-main-rohith-gowda-ds-projects.vercel.app/))
+📍 Bloomington, IN &nbsp;|&nbsp; 📧 rohithus2526@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/rohith-gowda-d/) &nbsp;|&nbsp; [Portfolio](https://my-portfolio-git-main-rohith-gowda-ds-projects.vercel.app/)
 
 ---
 
