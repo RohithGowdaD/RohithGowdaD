@@ -1,6 +1,6 @@
 # Hey, I'm Rohith 👋
 
-**MS Computer Science @ Indiana University Bloomington** (4.0 GPA)
+**MS Computer Science @ Indiana University Bloomington** 
 
 Software Engineer with production experience at **Boeing** (International Space Station software) and **OneMain Financial** (platform engineering & observability). I like building reliable systems, automating what shouldn't be manual, and applying ML to real problems.
 
